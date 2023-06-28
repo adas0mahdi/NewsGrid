@@ -26,6 +26,9 @@ You can see a live demo of the NewsGrid project [here](https://example.com).
 1. Clone the repository:
 
    ```shell
+  git clone https://github.com/adas0mahdi/NewsGrid.git
+
+   
 1.Open the project folder:
 
 cd NewsGrid
